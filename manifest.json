@@ -1,22 +1,22 @@
 {
-  "name": "GI.CODE – Quiz Excel Offline",
+  "name": "GI.CODE – Quiz Excel Vacances Numériques",
   "short_name": "GI.CODE Quiz Excel",
-  "description": "Quiz Microsoft Excel – Vacances Numériques",
-  "start_url": "./index.html",
+  "description": "Quiz Microsoft Excel de GI.CODE – Vacances Numériques",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f3f7f4",
   "theme_color": "#107c41",
-  "lang": "fr-FR",
+  "lang": "fr",
   "icons": [
     {
-      "src": "./icons/icon-192.png",
+      "src": "logo-gicode-officiel.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "./icons/icon-512.png",
+      "src": "logo-gicode-officiel.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
